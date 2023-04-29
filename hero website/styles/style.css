@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.content {
+    background-color: bisque;
+    padding: 20px 30px;
+    width: fit-content;
+    border: solid 3px rgb(rgb(189, 115, 115), rgb(0, 0, 0), blue);
+}
